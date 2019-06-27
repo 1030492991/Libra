@@ -1,0 +1,34 @@
+2019-05-28 08:41:58.643 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getAll
+2019-05-28 08:41:58.644 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=GET
+2019-05-28 08:41:58.645 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-05-28 08:41:58.649 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-05-28 08:41:58.649 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={}
+2019-05-28 08:41:58.660 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-05-28 08:41:58.666 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 进来getAll
+2019-05-28 08:41:59.280 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='D0CEEB165629D4FE57548E4C8BF78E08', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-05-28 08:41:59.284 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='D0CEEB165629D4FE57548E4C8BF78E08', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-05-28 08:44:20.331 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : url=/admin/getAll
+2019-05-28 08:44:20.332 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : method=GET
+2019-05-28 08:44:20.333 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-05-28 08:44:20.333 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-05-28 08:44:20.334 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : args={}
+2019-05-28 08:44:20.335 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-05-28 08:44:20.342 - INFO  [io-3743-exec-10] c.c.a.c.a.AdminController      : 进来getAll
+2019-05-28 08:44:20.368 - INFO  [io-3743-exec-10] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='D0CEEB165629D4FE57548E4C8BF78E08', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-05-28 08:44:21.474 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-05-28 09:14:04.843 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getAll
+2019-05-28 09:14:04.844 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=GET
+2019-05-28 09:14:04.846 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-05-28 09:14:04.849 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-05-28 09:14:04.862 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={}
+2019-05-28 09:14:04.863 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-05-28 09:14:04.889 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-05-28 09:14:04.892 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-05-28 17:14:15.711 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getAll
+2019-05-28 17:14:15.727 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=GET
+2019-05-28 17:14:15.728 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-05-28 17:14:15.731 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-05-28 17:14:15.732 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={}
+2019-05-28 17:14:15.738 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-05-28 17:14:16.766 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-05-28 17:14:16.769 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}

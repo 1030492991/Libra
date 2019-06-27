@@ -1,0 +1,130 @@
+2019-05-31 13:43:47.582 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 3028 (started by coolhao in F:\Java项目\Libra)
+2019-05-31 13:43:47.594 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-31 13:43:47.731 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-05-31 13:43:47.731 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-05-31 13:43:50.528 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-31 13:43:50.545 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-31 13:43:50.701 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 46ms. Found 0 repository interfaces.
+2019-05-31 13:43:52.134 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5e30227b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-31 13:43:54.331 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-31 13:43:54.392 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:43:54.409 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-31 13:43:54.411 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 13:43:54.956 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-31 13:43:54.958 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 7225 ms
+2019-05-31 13:43:57.521 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 13:43:58.666 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-31 13:43:58.733 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:43:58.854 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-31 13:43:58.862 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 12.976 seconds (JVM running for 19.589)
+2019-05-31 13:44:27.358 - INFO  [      Thread-34] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-31 13:44:28.093 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 3028 (started by coolhao in F:\Java项目\Libra)
+2019-05-31 13:44:28.094 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-31 13:44:28.561 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-31 13:44:28.563 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-31 13:44:28.576 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-05-31 13:44:28.758 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5e30227b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-31 13:44:29.440 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-31 13:44:29.441 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:44:29.442 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-31 13:44:29.443 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 13:44:29.480 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-31 13:44:29.481 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1384 ms
+2019-05-31 13:44:29.707 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'redis'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'redis' defined in file [F:\Java项目\Libra\target\classes\cn\coolhao\app\utils\Redis.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'redisTemplate' defined in class path resource [cn/coolhao/app/config/RedisConfig.class]: Unsatisfied dependency expressed through method 'redisTemplate' parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.boot.context.properties.ConfigurationPropertiesBindException: Error creating bean with name 'spring.redis-org.springframework.boot.autoconfigure.data.redis.RedisProperties': Could not bind properties to 'RedisProperties' : prefix=spring.redis, ignoreInvalidFields=false, ignoreUnknownFields=true; nested exception is org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'spring.redis.database' to int
+2019-05-31 13:44:29.711 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Stopping service [Tomcat]
+2019-05-31 13:44:29.724 - INFO  [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-31 13:44:49.661 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 14924 (started by coolhao in F:\Java项目\Libra)
+2019-05-31 13:44:49.671 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-31 13:44:49.758 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-05-31 13:44:49.758 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-05-31 13:44:53.974 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-31 13:44:53.983 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-31 13:44:54.097 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 53ms. Found 0 repository interfaces.
+2019-05-31 13:44:54.946 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$397f2479] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-31 13:44:55.887 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-31 13:44:55.909 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:44:55.924 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-31 13:44:55.925 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 13:44:56.095 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-31 13:44:56.096 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6337 ms
+2019-05-31 13:44:57.660 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 13:44:58.479 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-31 13:44:58.525 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:44:58.557 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-31 13:44:58.562 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 9.977 seconds (JVM running for 13.593)
+2019-05-31 13:45:22.207 - INFO  [       Thread-6] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-31 13:45:22.675 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 14924 (started by coolhao in F:\Java项目\Libra)
+2019-05-31 13:45:22.675 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-31 13:45:23.023 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-31 13:45:23.024 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-31 13:45:23.030 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-31 13:45:23.111 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$397f2479] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-31 13:45:23.348 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-31 13:45:23.353 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:45:23.354 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-31 13:45:23.354 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 13:45:23.378 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-31 13:45:23.379 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 699 ms
+2019-05-31 13:45:23.946 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 13:45:24.891 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-31 13:45:24.945 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:45:24.955 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-31 13:45:24.963 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.37 seconds (JVM running for 39.994)
+2019-05-31 13:45:24.970 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-31 13:45:28.357 - INFO  [      Thread-10] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-31 13:45:28.824 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 14924 (started by coolhao in F:\Java项目\Libra)
+2019-05-31 13:45:28.826 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-31 13:45:29.300 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-31 13:45:29.301 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-31 13:45:29.312 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
+2019-05-31 13:45:29.422 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$397f2479] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-31 13:45:29.795 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-31 13:45:29.799 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:45:29.800 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-31 13:45:29.800 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-31 13:45:29.852 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-31 13:45:29.853 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1021 ms
+2019-05-31 13:45:30.791 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-31 13:45:31.370 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-31 13:45:31.458 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-31 13:45:31.468 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-31 13:45:31.470 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.726 seconds (JVM running for 46.502)
+2019-05-31 13:45:31.482 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-31 13:47:02.088 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-31 13:47:02.089 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-31 13:47:02.119 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 30 ms
+2019-05-31 13:47:02.431 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2019-05-31 13:47:02.851 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2019-05-31 13:47:04.196 - INFO  [nio-3743-exec-2] i.l.c.EpollProvider            : Starting without optional epoll library
+2019-05-31 13:47:04.199 - INFO  [nio-3743-exec-2] i.l.c.KqueueProvider           : Starting without optional kqueue library
+2019-05-31 18:02:48.109 - INFO  [ioEventLoop-8-1] n.u.i.l.AbstractInternalLogger : null Unexpected exception during request: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_201]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_201]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_201]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_201]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_201]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[netty-buffer-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1125) ~[netty-buffer-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347) ~[netty-transport-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148) [netty-transport-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:682) [netty-transport-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:617) [netty-transport-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:534) [netty-transport-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:496) [netty-transport-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:906) [netty-common-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.36.Final.jar:4.1.36.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.36.Final.jar:4.1.36.Final]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
+2019-05-31 18:02:48.648 - INFO  [xecutorLoop-6-3] n.u.i.l.AbstractInternalLogger : Reconnecting, last destination was localhost/127.0.0.1:6379
+2019-05-31 18:02:49.858 - WARN  [ioEventLoop-8-2] n.u.i.l.AbstractInternalLogger : Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2019-05-31 18:02:54.290 - INFO  [xecutorLoop-6-4] n.u.i.l.AbstractInternalLogger : Reconnecting, last destination was localhost:6379
+2019-05-31 18:02:55.293 - WARN  [ioEventLoop-8-3] n.u.i.l.AbstractInternalLogger : Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2019-05-31 18:02:59.490 - INFO  [xecutorLoop-6-4] n.u.i.l.AbstractInternalLogger : Reconnecting, last destination was localhost:6379
+2019-05-31 18:03:00.494 - WARN  [ioEventLoop-8-3] n.u.i.l.AbstractInternalLogger : Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2019-05-31 18:03:04.689 - INFO  [xecutorLoop-6-2] n.u.i.l.AbstractInternalLogger : Reconnecting, last destination was localhost:6379
+2019-05-31 18:03:05.695 - WARN  [ioEventLoop-8-1] n.u.i.l.AbstractInternalLogger : Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2019-05-31 18:03:09.890 - INFO  [xecutorLoop-6-3] n.u.i.l.AbstractInternalLogger : Reconnecting, last destination was localhost:6379
+2019-05-31 18:03:10.894 - WARN  [ioEventLoop-8-2] n.u.i.l.AbstractInternalLogger : Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379

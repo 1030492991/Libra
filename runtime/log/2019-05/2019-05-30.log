@@ -1,0 +1,9 @@
+2019-05-30 14:51:32.985 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : url=/admin/getAdmin
+2019-05-30 14:51:32.987 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : method=POST
+2019-05-30 14:51:32.992 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-05-30 14:51:32.997 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdmin
+2019-05-30 14:51:32.998 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : args=1
+2019-05-30 14:51:33.236 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin_id=1
+2019-05-30 14:51:33.237 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}
+2019-05-30 14:51:33.246 - INFO  [nio-3743-exec-3] c.c.a.c.a.AdminController      : admin_id=1
+2019-05-30 14:51:35.231 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}}

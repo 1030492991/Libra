@@ -1,0 +1,575 @@
+2019-06-03 10:24:43.276 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:24:43.277 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:24:43.354 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:24:43.364 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:24:43.365 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={}
+2019-06-03 10:24:43.717 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:24:43.730 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:24:45.664 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:24:45.673 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:25:16.500 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:25:16.501 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:25:16.502 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:25:16.502 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:25:16.502 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args={}
+2019-06-03 10:25:16.503 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:25:16.503 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:25:16.508 - INFO  [nio-3743-exec-1] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:25:16.511 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:25:33.248 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:25:33.249 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:25:33.250 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:25:33.250 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:25:33.251 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : args={}
+2019-06-03 10:25:33.251 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:25:33.251 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:25:33.255 - INFO  [nio-3743-exec-5] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:25:33.258 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:26:26.990 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:26:26.991 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:26:26.991 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:26:26.992 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:26:26.992 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : args={}
+2019-06-03 10:26:26.993 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:26:26.994 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:26:26.998 - INFO  [nio-3743-exec-7] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:26:27.002 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:27:02.182 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:27:02.183 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:27:02.184 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:27:02.184 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:27:02.185 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : args={}
+2019-06-03 10:27:02.186 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:27:02.187 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:27:02.191 - INFO  [nio-3743-exec-9] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:27:02.194 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:27:15.371 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:27:15.371 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:27:15.372 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:27:15.373 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:27:15.374 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={}
+2019-06-03 10:27:15.374 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:27:15.375 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:27:15.377 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:27:15.380 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:27:16.535 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:27:16.535 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:27:16.536 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:27:16.536 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:27:16.536 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : args={}
+2019-06-03 10:27:16.537 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:27:16.537 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:27:16.543 - INFO  [nio-3743-exec-3] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:27:16.546 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:28:22.920 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:28:22.921 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:28:22.921 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:28:22.921 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:28:22.922 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : args={}
+2019-06-03 10:28:22.922 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:28:22.922 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:28:22.925 - INFO  [nio-3743-exec-4] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:28:22.932 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:28:29.519 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:28:29.521 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:28:29.522 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:28:29.522 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:28:29.522 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : args={}
+2019-06-03 10:28:29.523 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:28:29.523 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:28:29.527 - INFO  [nio-3743-exec-6] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:28:29.530 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:30:10.841 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:30:10.842 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:30:10.843 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:30:10.843 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:30:10.843 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : args={}
+2019-06-03 10:30:10.844 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:30:10.844 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:30:10.848 - INFO  [nio-3743-exec-8] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:30:10.850 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:30:32.187 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:30:32.187 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:30:32.188 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:30:32.188 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:30:32.188 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : args={}
+2019-06-03 10:30:32.188 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:30:32.189 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:30:32.191 - INFO  [io-3743-exec-10] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:30:32.194 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:32:06.002 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:32:06.003 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:32:06.003 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:32:06.003 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:32:06.004 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : args={}
+2019-06-03 10:32:06.004 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:32:06.004 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:32:06.006 - INFO  [nio-3743-exec-4] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:32:06.009 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:32:22.410 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:32:22.411 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:32:22.412 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:32:22.413 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:32:22.414 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : args={}
+2019-06-03 10:32:22.414 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:32:22.415 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:32:22.418 - INFO  [nio-3743-exec-6] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:32:22.420 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:32:46.222 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:32:46.223 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:32:46.224 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:32:46.225 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:32:46.227 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : args={}
+2019-06-03 10:32:46.227 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:32:46.229 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:32:46.232 - INFO  [nio-3743-exec-8] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:32:46.235 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:32:55.717 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:32:55.718 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:32:55.718 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:32:55.718 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:32:55.719 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : args={}
+2019-06-03 10:32:55.719 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:32:55.719 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:32:55.721 - INFO  [io-3743-exec-10] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:32:55.724 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:33:05.914 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:33:05.914 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:33:05.914 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:33:05.914 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:33:05.915 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : args={}
+2019-06-03 10:33:05.915 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:33:05.916 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:33:05.919 - INFO  [nio-3743-exec-3] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:33:05.922 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:33:25.049 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:33:25.050 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:33:25.051 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:33:25.051 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:33:25.051 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : args={}
+2019-06-03 10:33:25.051 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:33:25.052 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:33:25.054 - INFO  [nio-3743-exec-4] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:33:25.056 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:34:18.821 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:34:18.822 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:34:18.822 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:34:18.824 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:34:18.826 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : args={}
+2019-06-03 10:34:18.827 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:34:18.827 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:34:18.831 - INFO  [nio-3743-exec-6] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:34:18.834 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:34:29.938 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:34:29.939 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:34:29.940 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:34:29.940 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:34:29.940 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : args={}
+2019-06-03 10:34:29.940 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:34:29.941 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:34:29.943 - INFO  [nio-3743-exec-8] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:34:29.948 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:35:22.507 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:35:22.508 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:35:22.508 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:35:22.508 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:35:22.508 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : args={}
+2019-06-03 10:35:22.509 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:35:22.510 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:35:22.513 - INFO  [io-3743-exec-10] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:35:22.515 - INFO  [io-3743-exec-10] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 10:36:43.588 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : url=/admin/getAll
+2019-06-03 10:36:43.589 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : method=GET
+2019-06-03 10:36:43.589 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 10:36:43.589 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getInfo
+2019-06-03 10:36:43.589 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : args={}
+2019-06-03 10:36:43.590 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin=null
+2019-06-03 10:36:43.590 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : 自定义注解值=yyyy-MM-dd
+2019-06-03 10:36:43.592 - INFO  [nio-3743-exec-3] c.c.a.c.a.AdminController      : 数据wei:[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]
+2019-06-03 10:36:43.595 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=[Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}]}
+2019-06-03 12:23:49.049 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 12:23:49.066 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 12:23:49.067 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 12:23:49.067 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 12:23:49.067 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:23:49.081 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 12:23:49.085 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 12:24:56.533 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 12:24:56.534 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 12:24:56.534 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 12:24:56.535 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 12:24:56.535 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:24:56.540 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 12:24:56.551 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:24:56.762 - INFO  [nio-3743-exec-2] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'admin' in 'class cn.coolhao.app.pojo.Admin'
+2019-06-03 12:26:19.748 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 12:26:19.749 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 12:26:19.750 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 12:26:19.763 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 12:26:19.763 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:26:19.996 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 12:26:20.001 - INFO  [nio-3743-exec-1] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:26:21.079 - INFO  [nio-3743-exec-1] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'admin' in 'class cn.coolhao.app.pojo.Admin'
+2019-06-03 12:33:09.391 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 12:33:09.392 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 12:33:09.392 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 12:33:09.395 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 12:33:09.396 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:33:09.487 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 12:33:09.491 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:33:10.097 - INFO  [nio-3743-exec-2] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'admin' in 'class cn.coolhao.app.pojo.Admin'
+2019-06-03 12:34:29.255 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 12:34:29.256 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : method=POST
+2019-06-03 12:34:29.256 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 12:34:29.259 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 12:34:29.260 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:34:29.261 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin=null
+2019-06-03 12:34:29.266 - INFO  [nio-3743-exec-3] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","salt":"dfasf45","opwd": "654321","osalt": "AHDIN==","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 12:34:29.408 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 13:33:50.724 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 13:33:50.740 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 13:33:50.741 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 13:33:50.743 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 13:33:50.744 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 13:33:50.971 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 13:33:50.975 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 13:35:44.416 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 13:35:44.417 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 13:35:44.417 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 13:35:44.418 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 13:35:44.418 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 13:35:44.418 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 13:35:44.425 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 13:37:02.507 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 13:37:02.508 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 13:37:02.508 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 13:37:02.509 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 13:37:02.509 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 13:37:02.510 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 13:37:02.516 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 13:38:47.944 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 13:38:47.945 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 13:38:47.946 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 13:38:47.951 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 13:38:47.951 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 13:38:48.053 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 13:38:48.058 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1557732253}
+2019-06-03 13:38:49.136 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 13:43:15.159 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 13:43:15.160 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 13:43:15.161 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 13:43:15.161 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 13:43:15.161 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 13:43:15.162 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 13:43:15.169 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : data={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 13:43:15.210 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 13:52:46.557 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 13:52:46.558 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 13:52:46.558 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=127.0.0.1
+2019-06-03 13:52:46.559 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 13:52:46.559 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 13:52:46.559 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 13:52:46.611 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 14:15:44.435 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:15:44.436 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:15:44.437 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:15:44.439 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:15:44.440 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:15:44.528 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:15:44.852 - INFO  [nio-3743-exec-2] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.type.TypeException: Could not set parameters for mapping: ParameterMapping{property='adminName', mode=IN, javaType=class java.lang.Integer, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter #1 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+2019-06-03 14:17:22.483 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:17:22.486 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:17:22.487 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:17:22.489 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:17:22.490 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:17:22.649 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:17:23.060 - INFO  [nio-3743-exec-2] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.type.TypeException: Could not set parameters for mapping: ParameterMapping{property='adminName', mode=IN, javaType=class java.lang.Integer, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter #1 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+2019-06-03 14:24:35.793 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:24:35.794 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:24:35.795 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:24:35.797 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:24:35.798 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:24:35.909 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:24:36.318 - INFO  [nio-3743-exec-1] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'cn.coolhao.app.dao.AdminDao.getAdmin'.  It's likely that neither a Result Type nor a Result Map was specified.
+2019-06-03 14:29:05.955 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:29:05.956 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:29:05.957 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:29:05.959 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:29:05.960 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:29:06.046 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:29:06.336 - INFO  [nio-3743-exec-2] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.type.TypeException: Could not set parameters for mapping: ParameterMapping{property='adminName', mode=IN, javaType=class java.lang.Integer, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter #1 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+2019-06-03 14:31:00.053 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:31:00.054 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:31:00.054 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:31:00.057 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:31:00.057 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:31:00.135 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:31:00.464 - INFO  [nio-3743-exec-2] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'cn.coolhao.app.dao.AdminDao.getAdmin'.  It's likely that neither a Result Type nor a Result Map was specified.
+2019-06-03 14:32:51.924 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:32:51.925 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:32:51.925 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:32:51.928 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:32:51.928 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:32:52.023 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:32:52.336 - INFO  [nio-3743-exec-3] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.type.TypeException: Could not set parameters for mapping: ParameterMapping{property='adminName', mode=IN, javaType=class java.lang.Integer, jdbcType=null, numericScale=null, resultMapId='null', jdbcTypeName='null', expression='null'}. Cause: org.apache.ibatis.type.TypeException: Error setting non null for parameter #1 with JdbcType null . Try setting a different JdbcType for this parameter or a different configuration property. Cause: java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+2019-06-03 14:34:07.195 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:34:07.195 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:34:07.196 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:34:07.200 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:34:07.201 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:34:07.284 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:34:07.599 - INFO  [nio-3743-exec-1] c.c.a.h.ExceptionHandle        : mybatis异常=org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.executor.ExecutorException: A query was run and no Result Maps were found for the Mapped Statement 'cn.coolhao.app.dao.AdminDao.getAdmin'.  It's likely that neither a Result Type nor a Result Map was specified.
+2019-06-03 14:34:52.191 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:34:52.192 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:34:52.193 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:34:52.196 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:34:52.197 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:34:52.286 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:34:57.554 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:34:57.554 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:34:57.555 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:34:57.556 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:34:57.556 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : args={"adminName": "admin1","phone":"13537430258","pwd": "123456","opwd": "654321","token":"mYLY2XmA","isSuper": 0,"addTime": 1559283963}
+2019-06-03 14:34:57.557 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:37:39.179 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 14:37:39.180 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:37:39.180 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:37:39.180 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 14:37:39.181 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "ceshi","phone":"13537430259","pwd": "123456","opwd": "654321","token":"nYhshgSHF","isSuper": 0,"addTime": 1559288954}
+2019-06-03 14:37:39.181 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 14:37:40.028 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 14:46:37.135 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 14:46:37.136 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 14:46:37.137 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 14:46:37.142 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 14:46:37.143 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args=admin
+2019-06-03 14:46:37.312 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:07:11.524 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:07:11.525 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:07:11.525 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:07:11.528 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:07:11.529 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:07:11.605 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:07:11.611 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:08:00.438 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:08:00.439 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:08:00.440 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:08:00.441 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:08:00.442 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:08:00.443 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:08:00.451 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:08:00.490 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 1111
+2019-06-03 15:14:45.252 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:14:45.253 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:14:45.253 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:14:45.253 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:14:45.254 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:14:45.254 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:14:45.259 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:14:45.279 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 1111
+2019-06-03 15:17:37.123 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:17:37.125 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:17:37.127 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:17:37.132 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:17:37.133 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : args="admin“
+2019-06-03 15:17:37.263 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:17:37.268 - INFO  [nio-3743-exec-3] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:17:37.960 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:18:04.993 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:18:04.994 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:18:04.995 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:18:04.995 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:18:04.996 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:18:04.996 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:18:04.996 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:18:05.049 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : admin
+2019-06-03 15:19:16.349 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:19:16.350 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:19:16.351 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:19:16.352 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:19:16.352 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:19:16.352 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:19:16.362 - INFO  [nio-3743-exec-3] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:19:16.421 - INFO  [nio-3743-exec-3] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:22:51.025 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:22:51.026 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:22:51.026 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:22:51.029 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:22:51.030 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:22:51.133 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:22:51.137 - INFO  [nio-3743-exec-1] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:22:51.661 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:23:32.329 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:23:32.329 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:23:32.331 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:23:32.334 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:23:32.334 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:23:32.447 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:23:32.452 - INFO  [nio-3743-exec-4] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:25:37.342 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:25:37.342 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:25:37.343 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:25:37.344 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:25:37.344 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:25:37.345 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:25:37.350 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:27:19.309 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:27:19.309 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:27:19.310 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:27:19.310 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:27:19.311 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : args=admin
+2019-06-03 15:27:19.312 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:27:19.318 - INFO  [nio-3743-exec-9] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:27:19.336 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:33:41.187 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 15:33:41.188 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:33:41.188 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:33:41.189 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 15:33:41.189 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args={"adminName": "ceshi5","phone":"13537430259","pwd": "123456","opwd": "654321","token":"nYhshgSHF","isSuper": 0,"addTime": 1559288954}
+2019-06-03 15:33:41.190 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:33:42.495 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:34:37.040 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:34:37.041 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:34:37.041 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:34:37.042 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:34:37.042 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args=ceshi5
+2019-06-03 15:34:37.043 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:34:37.049 - INFO  [nio-3743-exec-1] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:34:37.157 - INFO  [nio-3743-exec-1] c.c.a.c.a.AdminController      : admin=Admin{id=null, adminName='ceshi5', phone='13537430259', pwd='123456', salt='null', opwd='654321', osalt='null', token='nYhshgSHF', isSuper=0, addTime=1559288954}
+2019-06-03 15:34:37.158 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:35:03.018 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:35:03.019 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:35:03.020 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:35:03.020 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:35:03.020 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=ceshi5
+2019-06-03 15:35:03.020 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:35:03.021 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:35:03.025 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : admin=Admin{id=null, adminName='ceshi5', phone='13537430259', pwd='123456', salt='null', opwd='654321', osalt='null', token='nYhshgSHF', isSuper=0, addTime=1559288954}
+2019-06-03 15:35:03.026 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:35:15.833 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:35:15.834 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:35:15.834 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:35:15.834 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:35:15.834 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : args=ceshi5
+2019-06-03 15:35:15.835 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:35:15.836 - INFO  [nio-3743-exec-4] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:35:15.840 - INFO  [nio-3743-exec-4] c.c.a.c.a.AdminController      : admin=Admin{id=null, adminName='ceshi5', phone='13537430259', pwd='123456', salt='null', opwd='654321', osalt='null', token='nYhshgSHF', isSuper=0, addTime=1559288954}
+2019-06-03 15:35:15.841 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:35:50.680 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-03 15:35:50.680 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:35:50.681 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:35:50.682 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-03 15:35:50.682 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : args={"adminName": "ceshi6","phone":"13537430300","pwd": "123456","opwd": "654321","token":"nYhshgSHF","isSuper": 0,"addTime": 1559288954}
+2019-06-03 15:35:50.683 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:35:50.736 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:36:05.544 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:36:05.544 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:36:05.545 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:36:05.545 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:36:05.546 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : args=ceshi6
+2019-06-03 15:36:05.547 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:36:05.547 - INFO  [nio-3743-exec-8] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:36:05.560 - INFO  [nio-3743-exec-8] c.c.a.c.a.AdminController      : admin=Admin{id=null, adminName='ceshi6', phone='13537430300', pwd='123456', salt='null', opwd='654321', osalt='null', token='nYhshgSHF', isSuper=0, addTime=1559288954}
+2019-06-03 15:36:05.562 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:37:28.209 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:37:28.209 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:37:28.209 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:37:28.210 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:37:28.210 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=ceshi6
+2019-06-03 15:37:28.211 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:37:28.216 - INFO  [nio-3743-exec-2] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:37:28.241 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=null, adminName='ceshi6', phone='13537430300', pwd='123456', salt='null', opwd='654321', osalt='null', token='nYhshgSHF', isSuper=0, addTime=1559288954}}
+2019-06-03 15:38:53.350 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 15:38:53.351 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:38:53.351 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:38:53.352 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 15:38:53.352 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : args=ceshi
+2019-06-03 15:38:53.352 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : admin=null
+2019-06-03 15:38:53.353 - INFO  [nio-3743-exec-5] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 15:38:53.358 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-03 15:39:27.459 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : url=/admin/getAdmin
+2019-06-03 15:39:27.460 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : method=POST
+2019-06-03 15:39:27.460 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 15:39:27.460 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdmin
+2019-06-03 15:39:27.460 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : args=1
+2019-06-03 15:39:27.463 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : admin=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}
+2019-06-03 15:39:27.464 - INFO  [nio-3743-exec-6] c.c.a.c.a.AdminController      : admin_id=1
+2019-06-03 15:39:27.502 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}}
+2019-06-03 16:48:44.599 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 16:48:44.604 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:48:44.606 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:48:44.610 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 16:48:44.611 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args=admin
+2019-06-03 16:48:44.612 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-03 16:48:44.635 - INFO  [nio-3743-exec-1] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 16:50:09.743 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : url=/admin/getAdmin
+2019-06-03 16:50:09.743 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:50:09.744 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:50:09.745 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdmin
+2019-06-03 16:50:09.746 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : args=7
+2019-06-03 16:50:09.763 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : admin=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}
+2019-06-03 16:50:09.765 - INFO  [nio-3743-exec-5] c.c.a.c.a.AdminController      : admin_id=7
+2019-06-03 16:50:09.823 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=7, adminName='ceshi5', phone='13537430259', pwd='-7ee45de3ca1b4830861d4646778eadfe', salt='V+Clai=#', opwd='7d5244bd80164ea3bb94805bb012f2c9', osalt='jCKjXmng', token='nYhshgSHF', isSuper=0, addTime=1559288954}}
+2019-06-03 16:50:39.871 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : url=/admin/getAdmin
+2019-06-03 16:50:39.872 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:50:39.872 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:50:39.873 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdmin
+2019-06-03 16:50:39.873 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : args=7
+2019-06-03 16:50:39.874 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : admin=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}
+2019-06-03 16:50:39.875 - INFO  [nio-3743-exec-6] c.c.a.c.a.AdminController      : admin_id=7
+2019-06-03 16:50:39.887 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=7, adminName='ceshi5', phone='13537430259', pwd='-7ee45de3ca1b4830861d4646778eadfe', salt='V+Clai=#', opwd='7d5244bd80164ea3bb94805bb012f2c9', osalt='jCKjXmng', token='nYhshgSHF', isSuper=0, addTime=1559288954}}
+2019-06-03 16:50:44.683 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : url=/admin/getAdmin
+2019-06-03 16:50:44.684 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:50:44.685 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:50:44.685 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdmin
+2019-06-03 16:50:44.686 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : args=1
+2019-06-03 16:50:44.687 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : admin=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}
+2019-06-03 16:50:44.687 - INFO  [nio-3743-exec-7] c.c.a.c.a.AdminController      : admin_id=1
+2019-06-03 16:50:44.692 - INFO  [nio-3743-exec-7] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}}
+2019-06-03 16:51:34.330 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 16:51:34.333 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:51:34.333 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:51:34.334 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 16:51:34.335 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : args=admin
+2019-06-03 16:51:34.335 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : admin=null
+2019-06-03 16:51:34.336 - INFO  [nio-3743-exec-8] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 16:51:39.563 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 16:51:39.565 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:51:39.565 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:51:39.566 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 16:51:39.566 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : args=ceshi5
+2019-06-03 16:51:39.567 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : admin=null
+2019-06-03 16:51:39.568 - INFO  [nio-3743-exec-9] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 16:51:39.579 - INFO  [nio-3743-exec-9] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=null, adminName='ceshi5', phone='13537430259', pwd='123456', salt='null', opwd='654321', osalt='null', token='nYhshgSHF', isSuper=0, addTime=1559288954}}
+2019-06-03 16:54:22.898 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : url=/admin/getAdmin
+2019-06-03 16:54:22.899 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:54:22.899 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:54:22.900 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdmin
+2019-06-03 16:54:22.901 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : args=1
+2019-06-03 16:54:22.902 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : admin=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}
+2019-06-03 16:54:22.908 - INFO  [nio-3743-exec-8] c.c.a.c.a.AdminController      : admin_id=1
+2019-06-03 16:54:22.952 - INFO  [nio-3743-exec-8] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}}
+2019-06-03 16:54:37.719 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 16:54:37.719 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:54:37.719 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:54:37.720 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 16:54:37.720 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : args=admin
+2019-06-03 16:54:37.720 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : admin=null
+2019-06-03 16:54:37.721 - INFO  [nio-3743-exec-6] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 16:54:37.729 - INFO  [nio-3743-exec-6] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}}
+2019-06-03 16:55:26.837 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : url=/admin/getAdmin
+2019-06-03 16:55:26.837 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:55:26.837 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:55:26.838 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdmin
+2019-06-03 16:55:26.838 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : args=7
+2019-06-03 16:55:26.839 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : admin=Admin{id=1, adminName='admin', phone='13537430256', pwd='2b1a962c5fe9b3f2c4f8edfac04b2b7b', salt='SHONGE==', opwd='', osalt='null', token='mYLY2XmA', isSuper=0, addTime=1557732253}
+2019-06-03 16:55:26.839 - INFO  [nio-3743-exec-5] c.c.a.c.a.AdminController      : admin_id=7
+2019-06-03 16:55:26.849 - INFO  [nio-3743-exec-5] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=7, adminName='ceshi5', phone='13537430259', pwd='-7ee45de3ca1b4830861d4646778eadfe', salt='V+Clai=#', opwd='7d5244bd80164ea3bb94805bb012f2c9', osalt='jCKjXmng', token='nYhshgSHF', isSuper=0, addTime=1559288954}}
+2019-06-03 16:55:39.175 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-03 16:55:39.176 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : method=POST
+2019-06-03 16:55:39.176 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-03 16:55:39.176 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-03 16:55:39.177 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : args=ceshi5
+2019-06-03 16:55:39.177 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : admin=null
+2019-06-03 16:55:39.177 - INFO  [nio-3743-exec-4] c.c.a.c.a.AdminController      : 进来controller
+2019-06-03 16:55:39.183 - INFO  [nio-3743-exec-4] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=7, adminName='ceshi5', phone='13537430259', pwd='-7ee45de3ca1b4830861d4646778eadfe', salt='V+Clai=#', opwd='7d5244bd80164ea3bb94805bb012f2c9', osalt='jCKjXmng', token='nYhshgSHF', isSuper=0, addTime=1559288954}}

@@ -1,0 +1,26 @@
+2019-06-04 08:57:53.794 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-04 08:57:53.795 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : method=POST
+2019-06-04 08:57:53.797 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-04 08:57:53.802 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-04 08:57:53.802 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : args={"adminName": "ceshi6","phone":"13537430300","pwd": "123456","opwd": "654321","token":"nYhshgSHF","isSuper": 0,"addTime": 1559288954}
+2019-06-04 08:57:53.985 - INFO  [nio-3743-exec-1] c.c.a.c.BaseController         : admin=null
+2019-06-04 10:24:35.794 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-04 10:24:35.794 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-04 10:24:35.795 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-04 10:24:35.795 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-04 10:24:35.796 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=org.apache.catalina.connector.RequestFacade@26100e30
+2019-06-04 10:24:35.796 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-04 10:24:38.192 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=null}
+2019-06-04 10:44:29.430 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/insertAdmin
+2019-06-04 10:44:29.431 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-04 10:44:29.431 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-04 10:44:29.432 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.insertAdmin
+2019-06-04 10:44:29.433 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=org.apache.catalina.connector.RequestFacade@4d0e5d59
+2019-06-04 10:44:29.434 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-04 10:44:54.484 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : url=/admin/getRedisAdmin
+2019-06-04 10:44:54.485 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : method=POST
+2019-06-04 10:44:54.485 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : ip=0:0:0:0:0:0:0:1
+2019-06-04 10:44:54.486 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : class_method=cn.coolhao.app.controller.admin.AdminController.getAdminInfo
+2019-06-04 10:44:54.487 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : args=tanhao
+2019-06-04 10:44:54.489 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : admin=null
+2019-06-04 10:44:54.643 - INFO  [nio-3743-exec-2] c.c.a.c.BaseController         : returning=JsonResult{code=200, msg='OK', data=Admin{id=null, adminName='tanhao', phone='13537430256', pwd='123456', salt='null', opwd='123456', osalt='null', token='null', isSuper=0, addTime=2019-06-04 10:24:35}}

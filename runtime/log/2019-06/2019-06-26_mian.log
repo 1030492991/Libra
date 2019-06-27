@@ -1,0 +1,14 @@
+2019-06-26 15:00:54.178 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 13672 (started by coolhao in F:\JavaÏîÄ¿\Libra)
+2019-06-26 15:00:54.217 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-06-26 15:00:54.516 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-06-26 15:00:54.517 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-06-26 15:00:58.341 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-26 15:00:58.355 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-06-26 15:00:58.496 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 68ms. Found 0 repository interfaces.
+2019-06-26 15:01:00.343 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$556fbea3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-26 15:01:04.602 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-06-26 15:01:04.657 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-06-26 15:01:04.700 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-06-26 15:01:04.701 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-26 15:01:05.047 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-06-26 15:01:05.048 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 10523 ms

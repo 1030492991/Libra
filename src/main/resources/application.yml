@@ -1,0 +1,65 @@
+server:
+  #端口号
+  port: 3743
+spring:
+  #数据库连接池
+  datasource:
+    url: jdbc:mysql://localhost:3306/story?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT&useSSL=false
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    tomcat:
+      uri-encoding=UTF-8:
+    dbcp2:
+      validation-query: 'select 1'
+      test-on-borrow: true
+      test-while-idle: true
+      time-between-eviction-runs-millis: 27800
+      initial-size: 5
+      max-idle: 100
+      min-idle: 5
+      max-wait-millis: 10000
+#    schema: static/sql/story.sql
+#    data: static/sql/data.sql
+#    platform: mysql
+#    initialization-mode: always
+
+  #devtools 热部署配置
+  devtools:
+    restart:
+      #开启热部署
+      enabled: true
+      #每次热部署进行编译的包
+      additional-paths: src/main/java
+  #redis 缓存配置
+  redis:
+    host: localhost
+    port: 6379
+    database: 1
+    # reids 连接密码
+    #password:
+    #************************jedis池参数设置*******************
+    jedis:
+      pool:
+        #如果超过等待时间，则直接抛出JedisConnectionException
+        max-wait: 30000
+        #jedis的最大活跃连接数
+        max-active: 100
+        #jedis的最大空闲
+        max-idle: 20
+        #jedis的最小空闲
+        min-idle: 0
+    #超时时间
+    timeout: 3000
+#mybatis 配置
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+    call-setters-on-nulls: true
+    cache-enabled: true
+  #实体类包名
+  type-aliases-package: cn.coolhao.app.pojo
+#log4 日志
+logging:
+  config: classpath:config/log.yml

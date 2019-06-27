@@ -1,0 +1,1202 @@
+2019-05-29 15:00:06.252 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:00:06.298 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:00:06.495 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-05-29 15:00:06.495 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-05-29 15:00:10.239 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:00:10.245 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:00:10.339 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 64ms. Found 0 repository interfaces.
+2019-05-29 15:00:11.714 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:00:15.439 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:00:15.508 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:00:15.529 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:00:15.532 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:00:15.917 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:00:15.918 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 9421 ms
+2019-05-29 15:00:19.395 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:00:20.352 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:00:20.420 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:00:20.451 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:00:20.456 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 18.234 seconds (JVM running for 26.714)
+2019-05-29 15:00:48.295 - INFO  [      Thread-41] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:00:49.052 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:00:49.054 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:00:50.308 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:00:50.309 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:00:50.322 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-05-29 15:00:50.608 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:00:50.810 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:00:50.812 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:00:50.813 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:00:50.815 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:00:50.847 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:00:50.847 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1789 ms
+2019-05-29 15:00:51.385 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:00:52.325 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:00:52.403 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:00:52.415 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:00:52.425 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.563 seconds (JVM running for 58.684)
+2019-05-29 15:00:52.436 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:02:28.017 - INFO  [      Thread-49] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:02:28.456 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:02:28.457 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:02:28.760 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:02:28.760 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:02:28.769 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2019-05-29 15:02:28.852 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:02:29.090 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:02:29.091 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:02:29.093 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:02:29.093 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:02:29.121 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:02:29.121 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 662 ms
+2019-05-29 15:02:29.776 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:02:30.241 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:02:30.269 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:02:30.275 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:02:30.276 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.89 seconds (JVM running for 156.535)
+2019-05-29 15:02:30.279 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:02:38.509 - INFO  [      Thread-55] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:02:38.879 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:02:38.881 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:02:40.678 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:02:40.679 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:02:40.701 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-05-29 15:02:40.884 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:02:41.106 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:02:41.108 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:02:41.108 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:02:41.108 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:02:41.132 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:02:41.132 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2247 ms
+2019-05-29 15:02:41.680 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:02:42.115 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:02:42.138 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:02:42.145 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:02:42.146 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.345 seconds (JVM running for 168.404)
+2019-05-29 15:02:42.148 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:02:45.667 - INFO  [      Thread-61] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:02:47.005 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:02:47.005 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:02:47.041 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [cn.coolhao.app.AppApplication]; nested exception is java.io.FileNotFoundException: class path resource [cn/coolhao/app/service/AdminService.class] cannot be opened because it does not exist
+2019-05-29 15:02:49.270 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:02:49.270 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:02:50.145 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:02:50.145 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:02:50.153 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-05-29 15:02:50.217 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:02:50.505 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:02:50.507 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:02:50.507 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:02:50.508 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:02:50.561 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:02:50.562 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1288 ms
+2019-05-29 15:02:50.615 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'adminService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.coolhao.app.service.AdminService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-05-29 15:02:50.616 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Stopping service [Tomcat]
+2019-05-29 15:02:50.625 - INFO  [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-29 15:03:38.948 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:03:38.949 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:03:39.380 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:03:39.380 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:03:39.387 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:03:39.452 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:03:39.669 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:03:39.671 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:03:39.672 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:03:39.672 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:03:39.751 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:03:39.752 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 801 ms
+2019-05-29 15:03:39.806 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'adminService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.coolhao.app.service.AdminService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-05-29 15:03:39.807 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Stopping service [Tomcat]
+2019-05-29 15:03:39.816 - INFO  [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-29 15:04:19.052 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:04:19.053 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:04:20.159 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:04:20.159 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:04:20.165 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:04:20.242 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:04:20.642 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:04:20.645 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:04:20.646 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:04:20.646 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:04:20.687 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:04:20.687 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1630 ms
+2019-05-29 15:04:21.434 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'adminService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.coolhao.app.service.AdminService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-05-29 15:04:21.437 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Stopping service [Tomcat]
+2019-05-29 15:04:21.448 - INFO  [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-29 15:04:23.087 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:04:23.088 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:04:23.350 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:04:23.351 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:04:23.356 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 15:04:23.415 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:04:23.694 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:04:23.696 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:04:23.696 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:04:23.697 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:04:23.725 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:04:23.725 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 632 ms
+2019-05-29 15:04:23.769 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'adminService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.coolhao.app.service.AdminService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-05-29 15:04:23.770 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Stopping service [Tomcat]
+2019-05-29 15:04:23.779 - INFO  [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-29 15:04:51.067 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:04:51.068 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:04:51.758 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:04:51.761 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:04:51.789 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 27ms. Found 0 repository interfaces.
+2019-05-29 15:04:51.906 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:04:52.411 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:04:52.413 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:04:52.413 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:04:52.414 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:04:52.451 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:04:52.451 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1380 ms
+2019-05-29 15:04:53.347 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:04:54.291 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:04:54.351 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:04:54.368 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:04:54.369 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.367 seconds (JVM running for 300.628)
+2019-05-29 15:04:54.376 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:07:13.667 - INFO  [      Thread-67] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:07:15.100 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:07:15.101 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:07:15.667 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:07:15.668 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:07:15.677 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2019-05-29 15:07:15.785 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:07:16.308 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:07:16.314 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:07:16.315 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:07:16.316 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:07:16.412 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:07:16.413 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1307 ms
+2019-05-29 15:07:17.535 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:07:18.437 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:07:18.466 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:07:18.475 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:07:18.476 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.44 seconds (JVM running for 444.734)
+2019-05-29 15:07:18.479 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:07:31.584 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:07:31.584 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:07:31.604 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 19 ms
+2019-05-29 15:07:31.909 - WARN  [nio-3743-exec-2] stractHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-05-29 15:09:24.267 - INFO  [      Thread-87] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:09:25.100 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:09:25.101 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:09:25.452 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:09:25.452 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:09:25.457 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 15:09:25.516 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:09:25.902 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:09:25.906 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:09:25.908 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:09:25.909 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:09:25.974 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:09:25.975 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 868 ms
+2019-05-29 15:09:27.557 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:09:29.560 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:09:29.616 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:09:29.622 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:09:29.623 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 4.633 seconds (JVM running for 575.882)
+2019-05-29 15:09:29.642 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:12:27.561 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:12:27.561 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:12:27.578 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 17 ms
+2019-05-29 15:12:27.705 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2019-05-29 15:12:28.168 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2019-05-29 15:12:28.353 - WARN  [nio-3743-exec-2] stractHandlerExceptionResolver : Resolved [java.lang.NullPointerException]
+2019-05-29 15:13:18.563 - INFO  [      Thread-93] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:13:18.565 - INFO  [      Thread-93] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown initiated...
+2019-05-29 15:13:18.592 - INFO  [      Thread-93] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown completed.
+2019-05-29 15:13:19.000 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:13:19.000 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:13:19.273 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:13:19.274 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:13:19.281 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-05-29 15:13:19.353 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:13:19.557 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:13:19.559 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:13:19.559 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:13:19.559 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:13:19.582 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:13:19.582 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 579 ms
+2019-05-29 15:13:20.121 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:13:20.636 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:13:20.669 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:13:20.725 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:13:20.735 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.781 seconds (JVM running for 806.994)
+2019-05-29 15:13:20.744 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:13:24.163 - INFO  [      Thread-99] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:13:24.911 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 11204 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:13:24.912 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:13:25.378 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:13:25.378 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:13:25.385 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:13:25.681 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d82295cb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:13:25.998 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:13:26.000 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:13:26.001 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:13:26.002 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:13:26.029 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:13:26.030 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1115 ms
+2019-05-29 15:13:27.397 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:13:27.907 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:13:27.935 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:13:27.942 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:13:27.943 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.092 seconds (JVM running for 814.202)
+2019-05-29 15:13:27.945 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:13:50.966 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:13:50.967 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:13:50.982 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 15 ms
+2019-05-29 15:13:51.000 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-2 - Starting...
+2019-05-29 15:13:51.006 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-2 - Start completed.
+2019-05-29 15:13:51.051 - WARN  [nio-3743-exec-2] stractHandlerExceptionResolver : Resolved [java.lang.NullPointerException]
+2019-05-29 15:15:45.568 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:15:45.576 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:15:45.659 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-05-29 15:15:45.660 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-05-29 15:15:47.291 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:15:47.297 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:15:47.380 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 45ms. Found 0 repository interfaces.
+2019-05-29 15:15:48.078 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:15:48.951 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:15:48.970 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:15:48.982 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:15:48.984 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:15:49.127 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:15:49.127 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3467 ms
+2019-05-29 15:15:51.041 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:15:52.411 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:15:52.457 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:15:52.495 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:15:52.499 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 7.988 seconds (JVM running for 9.652)
+2019-05-29 15:15:53.522 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:15:53.523 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:15:53.552 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 29 ms
+2019-05-29 15:15:53.663 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2019-05-29 15:15:53.941 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2019-05-29 15:18:08.202 - INFO  [      Thread-22] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:18:08.223 - INFO  [      Thread-22] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown initiated...
+2019-05-29 15:18:08.234 - INFO  [      Thread-22] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown completed.
+2019-05-29 15:18:08.599 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:18:08.599 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:18:08.996 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:18:08.996 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:18:09.008 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2019-05-29 15:18:09.103 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:18:09.343 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:18:09.344 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:18:09.345 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:18:09.345 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:18:09.374 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:18:09.375 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 773 ms
+2019-05-29 15:18:10.190 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:18:10.934 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:18:11.076 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:18:11.087 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:18:11.089 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.544 seconds (JVM running for 148.242)
+2019-05-29 15:18:11.094 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:18:13.390 - INFO  [      Thread-31] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:18:13.815 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:18:13.815 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:18:14.153 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:18:14.153 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:18:14.163 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2019-05-29 15:18:14.251 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:18:14.503 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:18:14.504 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:18:14.505 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:18:14.505 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:18:14.533 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:18:14.533 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 714 ms
+2019-05-29 15:18:15.120 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:18:16.320 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:18:16.374 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:18:16.435 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:18:16.442 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.683 seconds (JVM running for 153.595)
+2019-05-29 15:18:16.454 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:18:19.844 - INFO  [      Thread-37] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:18:20.291 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:18:20.291 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:18:20.808 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:18:20.810 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:18:20.820 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2019-05-29 15:18:20.900 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:18:21.180 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:18:21.181 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:18:21.182 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:18:21.182 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:18:21.213 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:18:21.213 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 918 ms
+2019-05-29 15:18:22.156 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:18:23.072 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:18:23.110 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:18:23.144 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:18:23.145 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.916 seconds (JVM running for 160.3)
+2019-05-29 15:18:23.149 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:18:34.183 - INFO  [nio-3743-exec-3] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:18:34.184 - INFO  [nio-3743-exec-3] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:18:34.204 - INFO  [nio-3743-exec-3] o.s.w.s.FrameworkServlet       : Completed initialization in 20 ms
+2019-05-29 15:18:34.217 - INFO  [nio-3743-exec-3] c.z.h.HikariDataSource         : HikariPool-2 - Starting...
+2019-05-29 15:18:34.223 - INFO  [nio-3743-exec-3] c.z.h.HikariDataSource         : HikariPool-2 - Start completed.
+2019-05-29 15:19:09.819 - INFO  [      Thread-43] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:09.821 - INFO  [      Thread-43] c.z.h.HikariDataSource         : HikariPool-2 - Shutdown initiated...
+2019-05-29 15:19:09.830 - INFO  [      Thread-43] c.z.h.HikariDataSource         : HikariPool-2 - Shutdown completed.
+2019-05-29 15:19:10.150 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:19:10.150 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:19:10.414 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:19:10.414 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:19:10.422 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2019-05-29 15:19:10.493 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:19:10.689 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:19:10.690 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:10.691 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:19:10.691 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:19:10.715 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:19:10.716 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 563 ms
+2019-05-29 15:19:11.444 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:12.777 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:19:12.840 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:12.854 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:19:12.858 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.756 seconds (JVM running for 210.011)
+2019-05-29 15:19:12.887 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:19:14.199 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:19:14.199 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:19:14.212 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 12 ms
+2019-05-29 15:19:14.233 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-3 - Starting...
+2019-05-29 15:19:14.239 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-3 - Start completed.
+2019-05-29 15:19:15.327 - INFO  [      Thread-49] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:15.333 - INFO  [      Thread-49] c.z.h.HikariDataSource         : HikariPool-3 - Shutdown initiated...
+2019-05-29 15:19:15.356 - INFO  [      Thread-49] c.z.h.HikariDataSource         : HikariPool-3 - Shutdown completed.
+2019-05-29 15:19:15.954 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:19:15.955 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:19:16.537 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:19:16.539 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:19:16.548 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2019-05-29 15:19:16.626 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:19:16.899 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:19:16.900 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:16.901 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:19:16.901 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:19:16.927 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:19:16.928 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 969 ms
+2019-05-29 15:19:17.679 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:18.364 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:19:18.416 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:18.424 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:19:18.426 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.552 seconds (JVM running for 215.579)
+2019-05-29 15:19:18.429 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:19:36.212 - INFO  [      Thread-55] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:36.531 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:19:36.532 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:19:36.803 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:19:36.803 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:19:36.809 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 15:19:36.865 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:19:37.088 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:19:37.089 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:37.089 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:19:37.090 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:19:37.117 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:19:37.118 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 584 ms
+2019-05-29 15:19:38.330 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:38.775 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:19:38.820 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:38.832 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:19:38.834 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.347 seconds (JVM running for 235.987)
+2019-05-29 15:19:38.841 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:19:45.312 - INFO  [      Thread-61] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:45.638 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:19:45.639 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:19:45.905 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:19:45.905 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:19:45.911 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:19:45.976 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:19:46.212 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:19:46.213 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:46.214 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:19:46.214 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:19:46.245 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:19:46.245 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 602 ms
+2019-05-29 15:19:46.826 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:47.275 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:19:47.300 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:47.304 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:19:47.305 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.721 seconds (JVM running for 244.459)
+2019-05-29 15:19:47.308 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:19:51.882 - INFO  [      Thread-67] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:52.463 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 4660 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:19:52.464 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:19:53.154 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:19:53.155 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:19:53.173 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2019-05-29 15:19:53.287 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$85f066c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:19:53.622 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:19:53.623 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:53.624 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:19:53.625 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:19:53.654 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:19:53.655 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1188 ms
+2019-05-29 15:19:54.517 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:19:55.381 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:19:55.429 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:19:55.458 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:19:55.460 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.054 seconds (JVM running for 252.613)
+2019-05-29 15:19:55.463 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:20:00.955 - INFO  [nio-3743-exec-6] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:20:00.956 - INFO  [nio-3743-exec-6] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:20:00.972 - INFO  [nio-3743-exec-6] o.s.w.s.FrameworkServlet       : Completed initialization in 16 ms
+2019-05-29 15:20:55.999 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:20:56.009 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:20:56.117 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-05-29 15:20:56.117 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-05-29 15:20:57.020 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:20:57.025 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:20:57.068 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2019-05-29 15:20:57.594 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:20:58.441 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:20:58.460 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:20:58.474 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:20:58.475 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:20:58.622 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:20:58.623 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2505 ms
+2019-05-29 15:21:00.238 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:21:01.069 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:21:01.119 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:21:01.157 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:21:01.162 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 6.319 seconds (JVM running for 8.921)
+2019-05-29 15:21:14.288 - INFO  [nio-3743-exec-1] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:21:14.288 - INFO  [nio-3743-exec-1] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:21:14.303 - INFO  [nio-3743-exec-1] o.s.w.s.FrameworkServlet       : Completed initialization in 15 ms
+2019-05-29 15:21:14.376 - INFO  [nio-3743-exec-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2019-05-29 15:21:14.568 - INFO  [nio-3743-exec-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2019-05-29 15:29:34.276 - WARN  [nio-3743-exec-4] stractHandlerExceptionResolver : Resolved [java.lang.NullPointerException]
+2019-05-29 15:44:59.882 - INFO  [      Thread-20] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:44:59.926 - INFO  [      Thread-20] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown initiated...
+2019-05-29 15:44:59.948 - INFO  [      Thread-20] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown completed.
+2019-05-29 15:45:00.623 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:45:00.633 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:45:01.454 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:45:01.454 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:45:01.461 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:45:01.539 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:45:01.840 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:45:01.842 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:45:01.842 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:45:01.843 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:45:01.889 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:45:01.890 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1239 ms
+2019-05-29 15:45:03.086 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:45:03.762 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:45:03.792 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:45:03.840 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:45:03.841 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.39 seconds (JVM running for 1451.6)
+2019-05-29 15:45:03.844 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:45:32.780 - INFO  [      Thread-28] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:45:33.186 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:45:33.187 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:45:33.581 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:45:33.582 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:45:33.590 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2019-05-29 15:45:33.687 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:45:33.908 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:45:33.909 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:45:33.910 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:45:33.910 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:45:33.936 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:45:33.937 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 745 ms
+2019-05-29 15:45:34.534 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:45:35.036 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:45:35.062 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:45:35.066 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:45:35.067 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.947 seconds (JVM running for 1482.826)
+2019-05-29 15:45:35.070 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:46:00.944 - INFO  [      Thread-34] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:46:01.327 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:46:01.328 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:46:01.684 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:46:01.685 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:46:01.698 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-05-29 15:46:01.814 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:46:02.134 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:46:02.135 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:46:02.135 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:46:02.136 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:46:02.165 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:46:02.166 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 834 ms
+2019-05-29 15:46:02.766 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:46:03.202 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:46:03.227 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:46:03.232 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:46:03.233 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.968 seconds (JVM running for 1510.991)
+2019-05-29 15:46:03.236 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:46:50.849 - INFO  [      Thread-40] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:46:51.218 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:46:51.219 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:46:51.507 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:46:51.508 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:46:51.514 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:46:51.594 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:46:51.906 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:46:51.907 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:46:51.908 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:46:51.908 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:46:51.930 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:46:51.930 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 706 ms
+2019-05-29 15:46:52.681 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:46:53.848 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:46:53.896 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:46:53.907 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:46:53.908 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.749 seconds (JVM running for 1561.667)
+2019-05-29 15:46:53.911 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:46:56.440 - INFO  [      Thread-46] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:46:57.046 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:46:57.047 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:46:57.732 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:46:57.732 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:46:57.739 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:46:57.840 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:46:58.071 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:46:58.076 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:46:58.078 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:46:58.079 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:46:58.164 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:46:58.165 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1111 ms
+2019-05-29 15:46:58.511 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:46:58.684 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:46:58.712 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:46:58.725 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:46:58.726 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.741 seconds (JVM running for 1566.485)
+2019-05-29 15:46:58.730 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:47:24.519 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:47:24.519 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:47:24.528 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 8 ms
+2019-05-29 15:47:24.533 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-2 - Starting...
+2019-05-29 15:47:24.543 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-2 - Start completed.
+2019-05-29 15:47:24.559 - WARN  [nio-3743-exec-2] stractHandlerExceptionResolver : Resolved [java.lang.NullPointerException]
+2019-05-29 15:48:53.231 - WARN  [nio-3743-exec-4] stractHandlerExceptionResolver : Resolved [java.lang.NullPointerException]
+2019-05-29 15:49:30.496 - INFO  [      Thread-52] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:49:30.499 - INFO  [      Thread-52] c.z.h.HikariDataSource         : HikariPool-2 - Shutdown initiated...
+2019-05-29 15:49:30.511 - INFO  [      Thread-52] c.z.h.HikariDataSource         : HikariPool-2 - Shutdown completed.
+2019-05-29 15:49:30.838 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:49:30.839 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:49:31.110 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:49:31.110 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:49:31.117 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-05-29 15:49:31.180 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:49:31.190 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectingArgumentResolverBeanPostProcessor' defined in class path resource [org/springframework/data/web/config/ProjectingArgumentResolverRegistrar.class]: BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.cache.annotation.ProxyCachingConfiguration': BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error at ::0 formal unbound in pointcut 
+2019-05-29 15:49:31.196 - INFO  [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-29 15:49:35.804 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:49:35.805 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:49:36.270 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:49:36.272 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:49:36.284 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-05-29 15:49:36.361 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:49:36.539 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:49:36.540 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:49:36.541 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:49:36.541 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:49:36.569 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:49:36.570 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 762 ms
+2019-05-29 15:49:36.945 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:49:37.212 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:49:37.241 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:49:37.247 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:49:37.250 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.519 seconds (JVM running for 1725.008)
+2019-05-29 15:49:37.253 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:50:43.333 - INFO  [      Thread-58] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:50:43.723 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:50:43.724 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:50:44.022 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:50:44.023 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:50:44.032 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2019-05-29 15:50:44.101 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:50:44.103 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectingArgumentResolverBeanPostProcessor' defined in class path resource [org/springframework/data/web/config/ProjectingArgumentResolverRegistrar.class]: BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.cache.annotation.ProxyCachingConfiguration': BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error at ::0 formal unbound in pointcut 
+2019-05-29 15:50:44.108 - INFO  [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-29 15:51:48.028 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:51:48.029 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:51:48.307 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:51:48.307 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:51:48.314 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:51:48.367 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:51:48.368 - WARN  [  restartedMain] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'projectingArgumentResolverBeanPostProcessor' defined in class path resource [org/springframework/data/web/config/ProjectingArgumentResolverRegistrar.class]: BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.cache.annotation.ProxyCachingConfiguration': BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: error at ::0 formal unbound in pointcut 
+2019-05-29 15:51:48.372 - INFO  [  restartedMain] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-05-29 15:51:54.159 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:51:54.160 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:51:54.668 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:51:54.668 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:51:54.675 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-05-29 15:51:54.757 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:51:54.941 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:51:54.942 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:51:54.943 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:51:54.943 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:51:54.970 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:51:54.971 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 807 ms
+2019-05-29 15:51:55.329 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:51:55.684 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:51:55.715 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:51:55.725 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:51:55.727 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.713 seconds (JVM running for 1863.486)
+2019-05-29 15:51:55.739 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:52:02.168 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:52:02.169 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:52:02.178 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 9 ms
+2019-05-29 15:52:02.182 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-3 - Starting...
+2019-05-29 15:52:02.189 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-3 - Start completed.
+2019-05-29 15:52:02.201 - WARN  [nio-3743-exec-2] stractHandlerExceptionResolver : Resolved [java.lang.NullPointerException]
+2019-05-29 15:52:14.419 - INFO  [      Thread-67] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:52:14.421 - INFO  [      Thread-67] c.z.h.HikariDataSource         : HikariPool-3 - Shutdown initiated...
+2019-05-29 15:52:14.429 - INFO  [      Thread-67] c.z.h.HikariDataSource         : HikariPool-3 - Shutdown completed.
+2019-05-29 15:52:14.736 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:52:14.737 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:52:14.977 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:52:14.978 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:52:14.985 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-05-29 15:52:15.044 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:52:15.232 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:52:15.233 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:52:15.234 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:52:15.236 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:52:15.258 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:52:15.258 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 519 ms
+2019-05-29 15:52:15.784 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:52:16.189 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:52:16.211 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:52:16.216 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:52:16.217 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.522 seconds (JVM running for 1883.976)
+2019-05-29 15:52:16.219 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:52:19.790 - INFO  [      Thread-79] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:52:20.284 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 7384 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:52:20.284 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:52:20.698 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:52:20.699 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:52:20.708 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2019-05-29 15:52:20.785 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1f7a374c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:52:21.209 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:52:21.211 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:52:21.214 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:52:21.214 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:52:21.250 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:52:21.250 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 963 ms
+2019-05-29 15:52:22.121 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:52:22.824 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:52:22.884 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:52:22.910 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:52:22.912 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.683 seconds (JVM running for 1890.67)
+2019-05-29 15:52:22.917 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:52:54.958 - INFO  [nio-3743-exec-9] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:52:54.959 - INFO  [nio-3743-exec-9] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:52:54.993 - INFO  [nio-3743-exec-9] o.s.w.s.FrameworkServlet       : Completed initialization in 34 ms
+2019-05-29 15:52:55.006 - INFO  [nio-3743-exec-9] c.z.h.HikariDataSource         : HikariPool-4 - Starting...
+2019-05-29 15:52:55.012 - INFO  [nio-3743-exec-9] c.z.h.HikariDataSource         : HikariPool-4 - Start completed.
+2019-05-29 15:52:55.023 - WARN  [nio-3743-exec-9] stractHandlerExceptionResolver : Resolved [java.lang.NullPointerException]
+2019-05-29 15:53:06.721 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:53:06.733 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:53:06.848 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-05-29 15:53:06.848 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-05-29 15:53:08.225 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:53:08.232 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:53:08.277 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2019-05-29 15:53:09.222 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:53:10.361 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:53:10.383 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:53:10.398 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:53:10.399 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:53:10.550 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:53:10.551 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3702 ms
+2019-05-29 15:53:12.023 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:53:12.773 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:53:12.820 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:53:12.858 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:53:12.862 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 7.452 seconds (JVM running for 9.225)
+2019-05-29 15:53:20.698 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:53:20.698 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:53:20.714 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 16 ms
+2019-05-29 15:53:20.807 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2019-05-29 15:53:21.015 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2019-05-29 15:53:21.171 - WARN  [nio-3743-exec-2] stractHandlerExceptionResolver : Resolved [java.lang.NullPointerException]
+2019-05-29 15:53:43.925 - INFO  [      Thread-21] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:53:43.974 - INFO  [      Thread-21] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown initiated...
+2019-05-29 15:53:43.998 - INFO  [      Thread-21] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown completed.
+2019-05-29 15:53:44.408 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:53:44.408 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:53:44.760 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:53:44.760 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:53:44.772 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2019-05-29 15:53:44.864 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:53:45.165 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:53:45.166 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:53:45.167 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:53:45.167 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:53:45.198 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:53:45.199 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 787 ms
+2019-05-29 15:53:45.860 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:53:46.399 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:53:46.424 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:53:46.430 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:53:46.431 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.097 seconds (JVM running for 42.794)
+2019-05-29 15:53:46.435 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:53:49.621 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:53:49.621 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:53:49.638 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 16 ms
+2019-05-29 15:53:49.658 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-2 - Starting...
+2019-05-29 15:53:49.667 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-2 - Start completed.
+2019-05-29 15:54:19.797 - INFO  [      Thread-29] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:54:19.801 - INFO  [      Thread-29] c.z.h.HikariDataSource         : HikariPool-2 - Shutdown initiated...
+2019-05-29 15:54:19.812 - INFO  [      Thread-29] c.z.h.HikariDataSource         : HikariPool-2 - Shutdown completed.
+2019-05-29 15:54:20.206 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:54:20.207 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:54:20.498 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:54:20.498 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:54:20.504 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:54:20.570 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:54:20.795 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:54:20.797 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:54:20.797 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:54:20.798 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:54:20.831 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:54:20.831 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 621 ms
+2019-05-29 15:54:21.415 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:54:22.634 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:54:22.666 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:54:22.671 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:54:22.672 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.529 seconds (JVM running for 79.035)
+2019-05-29 15:54:22.677 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:54:25.116 - INFO  [      Thread-35] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:54:25.907 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:54:25.908 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:54:26.502 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:54:26.502 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:54:26.510 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-05-29 15:54:26.593 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:54:26.862 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:54:26.863 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:54:26.864 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:54:26.864 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:54:26.899 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:54:26.900 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 988 ms
+2019-05-29 15:54:27.871 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:54:28.563 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:54:28.603 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:54:28.615 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:54:28.617 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.833 seconds (JVM running for 84.98)
+2019-05-29 15:54:28.621 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:54:30.288 - INFO  [nio-3743-exec-9] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:54:30.289 - INFO  [nio-3743-exec-9] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:54:30.302 - INFO  [nio-3743-exec-9] o.s.w.s.FrameworkServlet       : Completed initialization in 13 ms
+2019-05-29 15:54:30.316 - INFO  [nio-3743-exec-9] c.z.h.HikariDataSource         : HikariPool-3 - Starting...
+2019-05-29 15:54:30.324 - INFO  [nio-3743-exec-9] c.z.h.HikariDataSource         : HikariPool-3 - Start completed.
+2019-05-29 15:55:02.103 - INFO  [      Thread-41] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:55:02.107 - INFO  [      Thread-41] c.z.h.HikariDataSource         : HikariPool-3 - Shutdown initiated...
+2019-05-29 15:55:02.114 - INFO  [      Thread-41] c.z.h.HikariDataSource         : HikariPool-3 - Shutdown completed.
+2019-05-29 15:55:02.442 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:55:02.443 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:55:02.746 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:55:02.747 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:55:02.753 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:55:02.834 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:55:03.051 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:55:03.052 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:55:03.053 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:55:03.054 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:55:03.077 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:55:03.077 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 630 ms
+2019-05-29 15:55:03.581 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:55:04.244 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:55:04.286 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:55:04.299 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:55:04.301 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.908 seconds (JVM running for 120.664)
+2019-05-29 15:55:04.319 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:55:07.982 - INFO  [      Thread-47] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:55:09.560 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:55:09.561 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:55:10.533 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:55:10.534 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:55:10.553 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2019-05-29 15:55:10.779 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:55:11.383 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:55:11.386 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:55:11.388 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:55:11.397 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:55:11.435 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:55:11.436 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1870 ms
+2019-05-29 15:55:12.601 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:55:14.002 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:55:14.033 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:55:14.039 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:55:14.040 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 4.576 seconds (JVM running for 130.403)
+2019-05-29 15:55:14.044 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:57:27.292 - INFO  [nio-3743-exec-9] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:57:27.292 - INFO  [nio-3743-exec-9] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:57:27.313 - INFO  [nio-3743-exec-9] o.s.w.s.FrameworkServlet       : Completed initialization in 21 ms
+2019-05-29 15:57:27.329 - INFO  [nio-3743-exec-9] c.z.h.HikariDataSource         : HikariPool-4 - Starting...
+2019-05-29 15:57:27.336 - INFO  [nio-3743-exec-9] c.z.h.HikariDataSource         : HikariPool-4 - Start completed.
+2019-05-29 15:59:28.843 - INFO  [      Thread-53] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:59:28.846 - INFO  [      Thread-53] c.z.h.HikariDataSource         : HikariPool-4 - Shutdown initiated...
+2019-05-29 15:59:28.853 - INFO  [      Thread-53] c.z.h.HikariDataSource         : HikariPool-4 - Shutdown completed.
+2019-05-29 15:59:29.196 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:59:29.197 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:59:29.461 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:59:29.461 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:59:29.467 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 15:59:29.546 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:59:29.738 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:59:29.741 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:59:29.742 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:59:29.742 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:59:29.783 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:59:29.783 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 584 ms
+2019-05-29 15:59:30.372 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:59:31.187 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:59:31.275 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:59:31.307 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:59:31.308 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.156 seconds (JVM running for 387.671)
+2019-05-29 15:59:31.317 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:59:33.715 - INFO  [      Thread-59] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:59:34.445 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:59:34.446 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:59:35.004 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:59:35.005 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:59:35.018 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2019-05-29 15:59:35.102 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 15:59:35.291 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 15:59:35.293 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:59:35.294 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 15:59:35.294 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 15:59:35.328 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 15:59:35.328 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 876 ms
+2019-05-29 15:59:35.633 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:59:35.856 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 15:59:35.883 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 15:59:35.893 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 15:59:35.896 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.583 seconds (JVM running for 392.259)
+2019-05-29 15:59:35.904 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 15:59:39.144 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 15:59:39.145 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 15:59:39.151 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 6 ms
+2019-05-29 15:59:39.156 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-5 - Starting...
+2019-05-29 15:59:39.164 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-5 - Start completed.
+2019-05-29 15:59:59.283 - INFO  [      Thread-65] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 15:59:59.285 - INFO  [      Thread-65] c.z.h.HikariDataSource         : HikariPool-5 - Shutdown initiated...
+2019-05-29 15:59:59.291 - INFO  [      Thread-65] c.z.h.HikariDataSource         : HikariPool-5 - Shutdown completed.
+2019-05-29 15:59:59.607 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 15:59:59.607 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 15:59:59.878 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 15:59:59.879 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 15:59:59.887 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 15:59:59.945 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:00:00.148 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:00:00.150 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:00:00.151 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:00:00.151 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:00:00.175 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:00:00.176 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 565 ms
+2019-05-29 16:00:00.697 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:00:01.111 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:00:01.132 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:00:01.136 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:00:01.138 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.575 seconds (JVM running for 417.501)
+2019-05-29 16:00:01.140 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:00:04.718 - INFO  [      Thread-71] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:00:05.060 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:00:05.061 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:00:05.413 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:00:05.414 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:00:05.426 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2019-05-29 16:00:05.519 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:00:05.798 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:00:05.799 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:00:05.800 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:00:05.801 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:00:05.828 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:00:05.829 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 765 ms
+2019-05-29 16:00:06.491 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:00:07.393 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:00:07.423 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:00:07.444 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:00:07.446 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.454 seconds (JVM running for 423.809)
+2019-05-29 16:00:07.451 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:00:12.902 - INFO  [nio-3743-exec-9] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 16:00:12.905 - INFO  [nio-3743-exec-9] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 16:00:12.918 - INFO  [nio-3743-exec-9] o.s.w.s.FrameworkServlet       : Completed initialization in 13 ms
+2019-05-29 16:00:12.939 - WARN  [nio-3743-exec-9] stractHandlerExceptionResolver : Resolved [java.lang.ClassCastException: java.lang.String cannot be cast to cn.coolhao.app.pojo.Admin]
+2019-05-29 16:01:49.528 - INFO  [      Thread-77] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:01:49.867 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:01:49.868 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:01:50.208 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:01:50.208 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:01:50.215 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 16:01:50.289 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:01:50.559 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:01:50.560 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:01:50.563 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:01:50.564 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:01:50.588 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:01:50.589 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 719 ms
+2019-05-29 16:01:51.144 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:01:51.568 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:01:51.591 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:01:51.597 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:01:51.598 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.782 seconds (JVM running for 527.96)
+2019-05-29 16:01:51.600 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:01:55.132 - INFO  [      Thread-83] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:01:55.624 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:01:55.626 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:01:56.382 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:01:56.383 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:01:56.409 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2019-05-29 16:01:56.618 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:01:56.836 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:01:56.837 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:01:56.839 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:01:56.839 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:01:56.883 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:01:56.884 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1254 ms
+2019-05-29 16:01:57.197 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:01:57.400 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:01:57.442 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:01:57.449 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:01:57.450 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.033 seconds (JVM running for 533.813)
+2019-05-29 16:01:57.454 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:01:57.482 - INFO  [nio-3743-exec-1] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 16:01:57.482 - INFO  [nio-3743-exec-1] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 16:01:57.488 - INFO  [nio-3743-exec-1] o.s.w.s.FrameworkServlet       : Completed initialization in 6 ms
+2019-05-29 16:01:57.492 - INFO  [nio-3743-exec-1] c.z.h.HikariDataSource         : HikariPool-6 - Starting...
+2019-05-29 16:01:57.499 - INFO  [nio-3743-exec-1] c.z.h.HikariDataSource         : HikariPool-6 - Start completed.
+2019-05-29 16:02:10.217 - INFO  [      Thread-89] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:02:10.219 - INFO  [      Thread-89] c.z.h.HikariDataSource         : HikariPool-6 - Shutdown initiated...
+2019-05-29 16:02:10.228 - INFO  [      Thread-89] c.z.h.HikariDataSource         : HikariPool-6 - Shutdown completed.
+2019-05-29 16:02:10.520 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:02:10.520 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:02:10.876 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:02:10.877 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:02:10.883 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 16:02:10.952 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:02:11.178 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:02:11.179 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:02:11.180 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:02:11.181 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:02:11.213 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:02:11.214 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 691 ms
+2019-05-29 16:02:12.627 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:02:13.350 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:02:13.386 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:02:13.394 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:02:13.395 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.912 seconds (JVM running for 549.758)
+2019-05-29 16:02:13.399 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:02:15.897 - INFO  [      Thread-95] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:02:16.456 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:02:16.457 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:02:17.105 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:02:17.105 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:02:17.112 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 16:02:17.179 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:02:17.453 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:02:17.455 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:02:17.455 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:02:17.456 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:02:17.486 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:02:17.486 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1026 ms
+2019-05-29 16:02:18.259 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:02:19.294 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:02:19.337 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:02:19.345 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:02:19.346 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.985 seconds (JVM running for 555.709)
+2019-05-29 16:02:19.349 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:02:21.529 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 16:02:21.531 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 16:02:21.550 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 18 ms
+2019-05-29 16:02:21.577 - WARN  [nio-3743-exec-2] stractHandlerExceptionResolver : Resolved [java.lang.ClassCastException: java.lang.String cannot be cast to cn.coolhao.app.pojo.Admin]
+2019-05-29 16:02:32.585 - WARN  [io-3743-exec-10] stractHandlerExceptionResolver : Resolved [java.lang.ClassCastException: java.lang.String cannot be cast to cn.coolhao.app.pojo.Admin]
+2019-05-29 16:02:48.426 - INFO  [     Thread-101] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:02:48.715 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:02:48.716 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:02:48.972 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:02:48.972 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:02:48.977 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 16:02:49.033 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:02:49.223 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:02:49.224 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:02:49.224 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:02:49.225 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:02:49.251 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:02:49.251 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 532 ms
+2019-05-29 16:02:49.748 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:02:50.154 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:02:50.181 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:02:50.188 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:02:50.188 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.514 seconds (JVM running for 586.551)
+2019-05-29 16:02:50.191 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:02:53.842 - INFO  [     Thread-107] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:02:54.465 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:02:54.465 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:02:55.096 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:02:55.097 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:02:55.111 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-05-29 16:02:55.277 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:02:55.662 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:02:55.666 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:02:55.667 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:02:55.668 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:02:55.756 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:02:55.757 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1287 ms
+2019-05-29 16:02:56.842 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:02:58.142 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:02:58.179 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:02:58.186 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:02:58.188 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.793 seconds (JVM running for 594.551)
+2019-05-29 16:02:58.192 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:03:04.195 - INFO  [nio-3743-exec-2] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-29 16:03:04.196 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2019-05-29 16:03:04.217 - INFO  [nio-3743-exec-2] o.s.w.s.FrameworkServlet       : Completed initialization in 21 ms
+2019-05-29 16:03:04.232 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-7 - Starting...
+2019-05-29 16:03:04.308 - INFO  [nio-3743-exec-2] c.z.h.HikariDataSource         : HikariPool-7 - Start completed.
+2019-05-29 16:14:26.530 - INFO  [     Thread-113] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:14:26.535 - INFO  [     Thread-113] c.z.h.HikariDataSource         : HikariPool-7 - Shutdown initiated...
+2019-05-29 16:14:26.549 - INFO  [     Thread-113] c.z.h.HikariDataSource         : HikariPool-7 - Shutdown completed.
+2019-05-29 16:14:27.178 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:14:27.179 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:14:27.547 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:14:27.547 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:14:27.556 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2019-05-29 16:14:27.630 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:14:27.859 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:14:27.860 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:14:27.861 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:14:27.862 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:14:27.896 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:14:27.896 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 713 ms
+2019-05-29 16:14:28.466 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:14:28.907 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:14:28.929 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:14:28.934 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:14:28.935 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.811 seconds (JVM running for 1285.298)
+2019-05-29 16:14:28.937 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:15:53.234 - INFO  [     Thread-119] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:15:53.555 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:15:53.556 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:15:53.842 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:15:53.843 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:15:53.848 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 16:15:53.904 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:15:54.251 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:15:54.252 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:15:54.253 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:15:54.253 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:15:54.295 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:15:54.296 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 736 ms
+2019-05-29 16:15:55.086 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:15:55.684 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:15:55.708 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:15:55.715 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:15:55.715 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.202 seconds (JVM running for 1372.078)
+2019-05-29 16:15:55.718 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:16:34.272 - INFO  [     Thread-125] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:16:34.583 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:16:34.584 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:16:34.866 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:16:34.866 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:16:34.873 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-05-29 16:16:34.943 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:16:35.171 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:16:35.172 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:16:35.173 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:16:35.173 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:16:35.209 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:16:35.210 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 623 ms
+2019-05-29 16:16:35.818 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:16:36.368 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:16:36.407 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:16:36.424 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:16:36.425 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.881 seconds (JVM running for 1412.788)
+2019-05-29 16:16:36.440 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:24:20.480 - INFO  [     Thread-131] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:24:20.983 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:24:20.987 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:24:22.005 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:24:22.006 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:24:22.021 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
+2019-05-29 16:24:22.163 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:24:22.621 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:24:22.622 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:24:22.623 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:24:22.623 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:24:22.668 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:24:22.670 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1679 ms
+2019-05-29 16:24:23.450 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:24:23.984 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:24:24.008 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:24:24.013 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:24:24.014 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.085 seconds (JVM running for 1880.376)
+2019-05-29 16:24:24.016 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:26:20.757 - INFO  [     Thread-137] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:26:21.983 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:26:21.984 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:26:23.000 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:26:23.000 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:26:23.006 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 16:26:23.073 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:26:23.359 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:26:23.375 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:26:23.383 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:26:23.412 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:26:23.465 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:26:23.466 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1478 ms
+2019-05-29 16:26:24.636 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:26:24.999 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:26:25.033 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:26:25.040 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:26:25.042 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 3.14 seconds (JVM running for 2001.404)
+2019-05-29 16:26:25.051 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:28:46.273 - INFO  [     Thread-143] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:28:46.587 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:28:46.588 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:28:46.996 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:28:46.996 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:28:47.002 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-05-29 16:28:47.065 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:28:47.207 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:28:47.208 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:28:47.208 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:28:47.209 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:28:47.302 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:28:47.302 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 710 ms
+2019-05-29 16:28:47.511 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:28:47.657 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:28:47.678 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:28:47.684 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:28:47.685 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 1.146 seconds (JVM running for 2144.047)
+2019-05-29 16:28:47.694 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-05-29 16:28:57.473 - INFO  [     Thread-149] c.ExecutorConfigurationSupport : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:28:57.925 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting AppApplication on DESKTOP-QC7GDRK with PID 10832 (started by coolhao in F:\Java项目\Libra)
+2019-05-29 16:28:57.926 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to default profiles: default
+2019-05-29 16:28:58.373 - INFO  [  restartedMain] epositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-05-29 16:28:58.373 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-29 16:28:58.379 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-05-29 16:28:58.450 - INFO  [  restartedMain] egate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9a9eee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-05-29 16:28:58.710 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 3743 (http)
+2019-05-29 16:28:58.711 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:28:58.712 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2019-05-29 16:28:58.713 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-05-29 16:28:58.855 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2019-05-29 16:28:58.855 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 923 ms
+2019-05-29 16:28:59.968 - INFO  [  restartedMain] c.ExecutorConfigurationSupport : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-29 16:29:00.522 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2019-05-29 16:29:00.547 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-3743"]
+2019-05-29 16:29:00.584 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 3743 (http) with context path ''
+2019-05-29 16:29:00.584 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started AppApplication in 2.732 seconds (JVM running for 2156.947)
+2019-05-29 16:29:00.587 - INFO  [  restartedMain] EvaluationDeltaLoggingListener : Condition evaluation unchanged
